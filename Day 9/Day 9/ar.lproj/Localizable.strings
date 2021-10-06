@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Day 9
+
+  Created by Eth Os on 29/02/1443 AH.
+  
+*/
+"Name" = "الاسم";
+"Picture" = "الصورة";
+"Color" = "اللون";
+"Atheer Alzahrani" = "أثير الزهراني";
+"Hi" = "مرحبا";
+"Thank you for trying this app, you are a great person!" = "شكراً لاستخدامك هذا التطبيق ، أنت شخص رائع";
+"Cancel" = "إلغاء";
+"Signup" = "تسجيل";

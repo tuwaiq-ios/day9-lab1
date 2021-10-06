@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; configuration.title = "Name "; ObjectID = "D7H-f2-zys"; */
+"D7H-f2-zys.configuration.title" = "Name ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D7H-f2-zys"; */
+"D7H-f2-zys.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Atheer Alzahrani"; ObjectID = "GCr-Jh-Ncn"; */
+"GCr-Jh-Ncn.text" = "Atheer Alzahrani";
+
+/* Class = "UIButton"; configuration.title = "Color"; ObjectID = "jRd-mG-WN4"; */
+"jRd-mG-WN4.configuration.title" = "Color";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jRd-mG-WN4"; */
+"jRd-mG-WN4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Picture "; ObjectID = "ucg-CC-hbw"; */
+"ucg-CC-hbw.configuration.title" = "Picture ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ucg-CC-hbw"; */
+"ucg-CC-hbw.normalTitle" = "Button";

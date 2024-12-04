@@ -1,0 +1,9 @@
+/* 
+  localization.strings
+  day9-Afnan
+
+  Created by Fno Khalid on 29/02/1443 AH.
+  
+*/
+    "WELCOME" = " أهلا بكم";
+    "change langauge" = "تغيير اللغة";
